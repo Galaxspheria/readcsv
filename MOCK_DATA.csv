@@ -1,0 +1,1001 @@
+sales,color,region
+88,Orange,United States
+96,Purple,France
+70,Maroon,United States
+67,Yellow,France
+68,Aquamarine,France
+71,Fuscia,France
+44,Crimson,Spain
+50,Crimson,France
+94,Green,United States
+7,Fuscia,France
+19,Aquamarine,United States
+22,Pink,France
+74,Orange,France
+72,Blue,France
+19,Puce,France
+98,Maroon,France
+32,Mauv,United States
+67,Maroon,France
+22,Khaki,United States
+59,Yellow,France
+28,Fuscia,France
+46,Khaki,United States
+82,Maroon,United States
+21,Maroon,France
+94,Turquoise,France
+36,Mauv,Spain
+55,Goldenrod,France
+1,Turquoise,France
+26,Purple,France
+81,Violet,United States
+56,Fuscia,France
+48,Maroon,United States
+9,Green,Spain
+31,Green,France
+54,Indigo,United States
+65,Mauv,France
+6,Pink,France
+42,Orange,France
+33,Puce,United States
+85,Violet,France
+82,Indigo,United States
+44,Purple,United States
+3,Goldenrod,France
+83,Indigo,United States
+62,Yellow,France
+84,Purple,United States
+28,Mauv,United States
+70,Mauv,France
+92,Teal,France
+49,Purple,United States
+25,Orange,United States
+86,Khaki,France
+60,Puce,United States
+4,Indigo,United States
+31,Puce,France
+75,Khaki,United States
+88,Violet,France
+52,Crimson,United Kingdom
+44,Green,United States
+87,Orange,France
+67,Purple,Spain
+88,Fuscia,United States
+34,Maroon,France
+82,Puce,United States
+89,Orange,France
+80,Teal,United States
+53,Fuscia,France
+37,Violet,France
+55,Maroon,United States
+92,Fuscia,Spain
+6,Mauv,United States
+90,Purple,France
+30,Pink,United States
+26,Turquoise,United States
+18,Violet,France
+15,Mauv,France
+20,Turquoise,France
+69,Turquoise,United States
+8,Indigo,France
+23,Red,France
+91,Mauv,United States
+91,Purple,United States
+46,Fuscia,United States
+60,Goldenrod,United States
+84,Teal,France
+61,Maroon,United States
+64,Mauv,United States
+22,Blue,France
+59,Purple,France
+44,Purple,France
+81,Red,France
+66,Maroon,France
+70,Teal,France
+30,Aquamarine,United States
+59,Turquoise,France
+45,Red,United Kingdom
+77,Mauv,Spain
+96,Yellow,United States
+41,Yellow,United Kingdom
+5,Green,United Kingdom
+45,Puce,United States
+56,Indigo,France
+61,Violet,France
+84,Blue,France
+98,Khaki,United States
+5,Turquoise,France
+100,Crimson,France
+91,Maroon,United States
+53,Pink,France
+59,Mauv,United States
+18,Mauv,France
+83,Purple,France
+83,Blue,Spain
+34,Purple,France
+26,Turquoise,France
+84,Mauv,United States
+61,Violet,Spain
+34,Orange,France
+12,Indigo,Spain
+10,Crimson,France
+58,Mauv,United States
+5,Pink,France
+47,Khaki,France
+17,Blue,France
+78,Teal,United States
+48,Red,France
+100,Crimson,United States
+10,Pink,United States
+19,Goldenrod,France
+1,Orange,France
+45,Green,France
+55,Maroon,United States
+40,Purple,United States
+7,Green,United States
+74,Indigo,United States
+50,Blue,France
+37,Mauv,United States
+19,Puce,United Kingdom
+70,Goldenrod,United States
+70,Indigo,France
+92,Fuscia,United States
+88,Red,France
+2,Khaki,France
+47,Violet,France
+39,Khaki,France
+47,Yellow,France
+21,Fuscia,United States
+46,Fuscia,United States
+24,Teal,France
+55,Crimson,France
+83,Purple,France
+2,Blue,France
+5,Yellow,United States
+43,Red,United States
+52,Pink,United States
+23,Crimson,France
+57,Khaki,France
+55,Aquamarine,Spain
+47,Green,United States
+87,Purple,United States
+94,Puce,France
+83,Blue,France
+74,Pink,United Kingdom
+40,Purple,France
+65,Green,France
+1,Aquamarine,United States
+80,Violet,United Kingdom
+96,Indigo,United States
+41,Fuscia,United Kingdom
+95,Purple,France
+40,Khaki,United States
+58,Maroon,France
+34,Orange,France
+75,Orange,United States
+30,Pink,France
+27,Goldenrod,United States
+2,Indigo,France
+75,Yellow,France
+73,Green,United States
+55,Purple,France
+18,Crimson,France
+15,Blue,United States
+61,Pink,France
+37,Violet,France
+54,Green,United States
+57,Indigo,United States
+48,Aquamarine,United States
+24,Aquamarine,France
+21,Purple,France
+18,Purple,France
+18,Maroon,France
+72,Blue,France
+42,Purple,United States
+55,Khaki,France
+71,Maroon,United Kingdom
+85,Yellow,United States
+66,Khaki,United States
+85,Turquoise,France
+82,Indigo,France
+52,Purple,France
+41,Orange,France
+92,Crimson,United States
+74,Turquoise,United States
+28,Red,France
+97,Puce,United States
+6,Mauv,United States
+49,Blue,France
+74,Crimson,France
+55,Violet,France
+31,Goldenrod,France
+57,Green,France
+17,Khaki,United States
+47,Violet,United States
+62,Pink,France
+62,Violet,United States
+96,Blue,United States
+23,Orange,France
+8,Purple,France
+71,Turquoise,United States
+29,Aquamarine,United States
+8,Fuscia,United States
+65,Crimson,France
+27,Fuscia,France
+5,Green,France
+28,Aquamarine,France
+16,Khaki,France
+77,Red,France
+19,Pink,France
+95,Orange,France
+40,Mauv,United States
+91,Puce,France
+83,Indigo,France
+28,Aquamarine,France
+1,Indigo,United States
+39,Orange,France
+89,Maroon,United States
+94,Purple,France
+63,Mauv,United Kingdom
+24,Khaki,United States
+81,Teal,France
+5,Fuscia,France
+16,Aquamarine,Spain
+70,Crimson,United States
+36,Pink,France
+81,Teal,United States
+18,Green,France
+93,Blue,France
+95,Turquoise,United Kingdom
+71,Turquoise,France
+22,Purple,United States
+79,Khaki,United States
+60,Turquoise,France
+36,Puce,United States
+70,Pink,France
+45,Goldenrod,Spain
+30,Maroon,Spain
+67,Indigo,United States
+93,Khaki,United Kingdom
+1,Khaki,Spain
+79,Aquamarine,Spain
+69,Crimson,France
+44,Green,Spain
+42,Goldenrod,United States
+74,Indigo,France
+52,Purple,United States
+89,Green,France
+68,Indigo,United States
+64,Teal,United States
+25,Maroon,United Kingdom
+79,Yellow,France
+94,Fuscia,United States
+66,Crimson,France
+25,Yellow,United States
+64,Puce,France
+77,Goldenrod,United States
+23,Fuscia,Spain
+61,Orange,France
+1,Goldenrod,Spain
+36,Blue,France
+28,Pink,France
+78,Violet,United States
+22,Fuscia,France
+96,Crimson,France
+18,Green,France
+58,Violet,United States
+20,Maroon,United States
+31,Indigo,France
+92,Puce,France
+68,Orange,France
+21,Khaki,United Kingdom
+25,Teal,United States
+60,Puce,United States
+46,Puce,United States
+62,Crimson,United States
+13,Mauv,France
+27,Teal,France
+53,Maroon,Spain
+95,Blue,United States
+40,Aquamarine,United States
+19,Green,United States
+69,Goldenrod,France
+48,Purple,United States
+23,Indigo,United States
+70,Crimson,France
+95,Turquoise,United States
+50,Yellow,United Kingdom
+1,Fuscia,France
+34,Maroon,France
+77,Fuscia,United Kingdom
+19,Purple,United States
+96,Goldenrod,France
+6,Pink,France
+71,Yellow,France
+3,Khaki,United States
+50,Maroon,United States
+10,Red,France
+78,Teal,United States
+70,Turquoise,France
+46,Puce,France
+85,Khaki,Spain
+64,Indigo,United States
+29,Turquoise,United States
+24,Goldenrod,United States
+21,Puce,France
+83,Puce,United States
+82,Maroon,United States
+100,Aquamarine,France
+77,Goldenrod,France
+19,Goldenrod,United States
+28,Aquamarine,France
+65,Purple,France
+22,Violet,France
+19,Puce,France
+79,Blue,United Kingdom
+94,Purple,France
+56,Aquamarine,United States
+15,Orange,United States
+91,Maroon,France
+55,Puce,United Kingdom
+98,Maroon,United States
+32,Pink,France
+56,Red,United States
+60,Mauv,United States
+9,Purple,United States
+1,Yellow,United States
+10,Blue,France
+26,Mauv,France
+42,Red,United States
+31,Red,United States
+53,Maroon,United States
+49,Pink,France
+21,Yellow,France
+44,Violet,France
+69,Crimson,United States
+80,Crimson,United States
+44,Teal,United States
+5,Khaki,France
+89,Orange,France
+47,Blue,United States
+11,Violet,France
+58,Turquoise,United States
+98,Teal,France
+89,Red,Spain
+84,Orange,United States
+44,Puce,United States
+56,Violet,France
+14,Pink,United States
+72,Puce,France
+66,Mauv,France
+93,Aquamarine,United States
+35,Red,United States
+62,Orange,France
+71,Teal,France
+5,Turquoise,United States
+53,Maroon,France
+34,Khaki,France
+81,Aquamarine,United States
+51,Turquoise,France
+62,Teal,United States
+83,Khaki,France
+98,Yellow,United States
+24,Mauv,France
+46,Blue,United States
+2,Red,United States
+16,Mauv,United States
+28,Blue,United States
+66,Red,France
+94,Mauv,United States
+52,Indigo,France
+54,Pink,United States
+6,Turquoise,United States
+74,Yellow,United States
+84,Goldenrod,United States
+62,Orange,France
+62,Violet,France
+9,Crimson,United States
+31,Green,France
+71,Puce,France
+35,Teal,United States
+17,Violet,United States
+99,Yellow,France
+79,Violet,United States
+45,Red,France
+56,Blue,United States
+46,Orange,United States
+59,Maroon,United States
+17,Indigo,United States
+4,Crimson,United States
+14,Orange,France
+48,Turquoise,United States
+63,Turquoise,France
+52,Aquamarine,United States
+37,Red,United States
+21,Maroon,United States
+89,Turquoise,Spain
+51,Goldenrod,France
+32,Goldenrod,France
+83,Puce,France
+50,Red,France
+69,Indigo,United States
+31,Puce,France
+79,Blue,France
+40,Purple,France
+97,Puce,France
+45,Orange,France
+82,Khaki,United States
+72,Violet,France
+41,Khaki,United States
+98,Crimson,United States
+56,Pink,France
+48,Goldenrod,France
+33,Orange,France
+13,Crimson,France
+66,Violet,United States
+29,Yellow,France
+41,Khaki,France
+71,Pink,France
+52,Khaki,France
+22,Yellow,United States
+94,Mauv,France
+91,Blue,United States
+16,Aquamarine,France
+52,Violet,Spain
+52,Puce,United States
+66,Turquoise,France
+29,Purple,United States
+12,Pink,United States
+61,Crimson,United Kingdom
+97,Puce,France
+50,Maroon,United States
+59,Goldenrod,United States
+81,Maroon,France
+9,Orange,United States
+98,Indigo,France
+48,Orange,France
+96,Turquoise,France
+58,Turquoise,United States
+80,Pink,France
+84,Puce,France
+67,Puce,United States
+90,Aquamarine,France
+29,Puce,France
+15,Red,France
+22,Orange,United States
+12,Red,United Kingdom
+36,Yellow,France
+81,Puce,United States
+78,Pink,France
+99,Pink,France
+12,Purple,United States
+62,Indigo,United States
+62,Purple,United Kingdom
+100,Goldenrod,United States
+52,Puce,United States
+86,Goldenrod,United States
+39,Orange,France
+57,Green,France
+54,Maroon,United States
+6,Blue,United States
+99,Orange,France
+92,Red,United States
+4,Mauv,United States
+43,Purple,United States
+19,Orange,France
+54,Fuscia,United States
+59,Mauv,France
+61,Red,France
+99,Pink,United States
+5,Fuscia,France
+5,Teal,France
+62,Red,France
+72,Turquoise,France
+80,Indigo,France
+65,Orange,France
+46,Purple,France
+75,Indigo,United States
+70,Aquamarine,France
+50,Khaki,United States
+6,Mauv,France
+94,Blue,United States
+68,Crimson,United States
+49,Mauv,United Kingdom
+46,Khaki,United States
+13,Red,United States
+67,Blue,United Kingdom
+74,Khaki,France
+8,Khaki,France
+100,Maroon,United States
+24,Maroon,France
+77,Indigo,United Kingdom
+91,Indigo,United States
+92,Puce,United Kingdom
+4,Fuscia,France
+50,Aquamarine,France
+79,Yellow,France
+36,Yellow,France
+50,Puce,United States
+26,Aquamarine,United Kingdom
+13,Red,United States
+54,Crimson,France
+61,Fuscia,France
+83,Crimson,France
+41,Aquamarine,France
+79,Goldenrod,France
+69,Goldenrod,France
+68,Khaki,France
+37,Violet,France
+9,Goldenrod,France
+3,Puce,France
+23,Orange,France
+39,Crimson,France
+32,Mauv,United States
+90,Yellow,France
+31,Crimson,France
+47,Turquoise,United States
+22,Khaki,France
+69,Purple,France
+77,Blue,United States
+78,Green,France
+2,Indigo,France
+36,Crimson,United States
+100,Maroon,France
+94,Purple,France
+89,Fuscia,France
+25,Fuscia,United States
+57,Purple,United States
+83,Mauv,France
+80,Red,United Kingdom
+22,Green,France
+89,Green,France
+72,Aquamarine,United States
+2,Red,France
+83,Puce,France
+31,Yellow,France
+40,Blue,France
+31,Green,United States
+98,Aquamarine,France
+9,Violet,United States
+14,Red,France
+53,Fuscia,France
+54,Mauv,United Kingdom
+74,Green,France
+25,Puce,France
+76,Puce,United States
+66,Aquamarine,France
+78,Teal,United States
+43,Orange,France
+24,Pink,Spain
+27,Mauv,United States
+56,Indigo,France
+49,Blue,United States
+28,Mauv,France
+40,Goldenrod,France
+80,Violet,United States
+24,Green,France
+75,Yellow,Spain
+94,Puce,France
+55,Puce,France
+76,Yellow,United States
+18,Yellow,France
+42,Goldenrod,France
+8,Violet,France
+48,Indigo,United States
+14,Turquoise,France
+74,Blue,France
+73,Violet,France
+15,Turquoise,United States
+52,Turquoise,United States
+80,Orange,France
+2,Crimson,Spain
+95,Aquamarine,France
+23,Aquamarine,France
+9,Indigo,United States
+16,Pink,France
+21,Maroon,France
+22,Maroon,United States
+81,Yellow,United States
+51,Violet,France
+9,Red,France
+71,Turquoise,United Kingdom
+36,Green,United States
+8,Crimson,United States
+76,Khaki,United States
+61,Crimson,France
+23,Turquoise,France
+55,Mauv,France
+69,Red,France
+74,Goldenrod,United States
+74,Yellow,Spain
+95,Red,France
+85,Indigo,France
+59,Puce,France
+29,Turquoise,France
+83,Khaki,France
+24,Green,United States
+3,Goldenrod,United States
+96,Orange,United States
+41,Purple,United States
+49,Green,Spain
+26,Puce,France
+23,Violet,United States
+5,Crimson,United States
+87,Green,United States
+85,Turquoise,France
+54,Puce,France
+86,Orange,Spain
+5,Maroon,United States
+70,Teal,France
+79,Yellow,France
+77,Turquoise,United States
+15,Khaki,United States
+3,Khaki,United States
+17,Purple,France
+39,Indigo,France
+17,Orange,United States
+72,Aquamarine,France
+95,Green,France
+81,Purple,France
+7,Puce,France
+18,Indigo,United States
+32,Yellow,United States
+65,Khaki,France
+64,Khaki,France
+79,Fuscia,United States
+30,Khaki,France
+52,Orange,France
+96,Purple,United States
+57,Aquamarine,France
+94,Yellow,United States
+87,Fuscia,France
+35,Puce,United Kingdom
+85,Khaki,France
+91,Goldenrod,France
+46,Khaki,United States
+48,Fuscia,France
+94,Teal,United Kingdom
+35,Yellow,France
+41,Green,France
+67,Blue,United States
+76,Indigo,United States
+12,Mauv,France
+51,Yellow,France
+14,Green,United Kingdom
+37,Teal,France
+80,Violet,France
+5,Purple,United Kingdom
+85,Green,France
+26,Yellow,France
+30,Orange,France
+21,Yellow,France
+55,Red,United States
+58,Red,United States
+36,Mauv,United States
+92,Khaki,France
+81,Puce,France
+82,Maroon,United States
+19,Maroon,France
+48,Fuscia,United States
+79,Purple,France
+54,Yellow,France
+65,Mauv,United States
+80,Fuscia,United States
+63,Goldenrod,Spain
+74,Green,United States
+70,Orange,United States
+89,Orange,France
+7,Violet,United States
+16,Goldenrod,United States
+16,Yellow,France
+51,Indigo,France
+93,Khaki,United States
+46,Goldenrod,United States
+8,Yellow,United States
+13,Yellow,France
+65,Maroon,France
+22,Green,United States
+73,Orange,France
+43,Teal,France
+85,Red,France
+49,Fuscia,United Kingdom
+61,Khaki,France
+96,Fuscia,France
+17,Turquoise,France
+20,Aquamarine,United States
+21,Maroon,United States
+63,Aquamarine,France
+3,Blue,France
+28,Red,France
+66,Crimson,France
+39,Goldenrod,France
+15,Aquamarine,France
+70,Pink,France
+16,Pink,France
+92,Crimson,France
+37,Turquoise,France
+2,Teal,France
+30,Purple,United States
+74,Violet,France
+25,Yellow,United States
+37,Khaki,United States
+6,Blue,United States
+63,Pink,France
+82,Fuscia,France
+25,Turquoise,France
+94,Orange,France
+54,Crimson,United States
+79,Violet,United States
+88,Puce,France
+84,Aquamarine,United States
+44,Aquamarine,United States
+91,Pink,France
+77,Khaki,United Kingdom
+6,Purple,France
+62,Puce,France
+29,Purple,France
+64,Turquoise,France
+83,Turquoise,France
+93,Fuscia,France
+93,Puce,France
+71,Orange,France
+97,Turquoise,United States
+42,Goldenrod,France
+12,Violet,United States
+9,Turquoise,France
+87,Indigo,United States
+2,Purple,United Kingdom
+53,Aquamarine,United States
+65,Teal,France
+90,Blue,United Kingdom
+39,Fuscia,United States
+63,Goldenrod,France
+88,Puce,France
+76,Khaki,France
+47,Red,United States
+72,Teal,France
+46,Violet,United States
+66,Mauv,France
+15,Orange,France
+50,Fuscia,France
+27,Blue,United States
+65,Green,France
+41,Crimson,United States
+61,Crimson,France
+1,Maroon,France
+2,Fuscia,United States
+55,Pink,Spain
+97,Goldenrod,France
+98,Fuscia,United States
+16,Maroon,United States
+30,Yellow,France
+69,Teal,France
+97,Maroon,United States
+97,Violet,France
+58,Mauv,United Kingdom
+28,Fuscia,France
+40,Purple,France
+58,Indigo,United Kingdom
+59,Aquamarine,United States
+6,Fuscia,United States
+62,Purple,France
+41,Indigo,United Kingdom
+22,Indigo,United Kingdom
+91,Violet,France
+4,Yellow,France
+22,Pink,France
+73,Khaki,United States
+53,Orange,United States
+28,Goldenrod,United States
+3,Blue,France
+48,Blue,United States
+38,Maroon,United States
+4,Violet,United States
+59,Puce,United States
+79,Red,Spain
+95,Red,United States
+25,Turquoise,France
+10,Maroon,United States
+60,Maroon,United States
+75,Khaki,France
+9,Turquoise,United States
+78,Purple,France
+11,Goldenrod,United States
+52,Orange,United States
+18,Orange,United States
+16,Mauv,France
+81,Yellow,Spain
+24,Pink,United States
+59,Purple,France
+63,Goldenrod,France
+14,Indigo,France
+5,Goldenrod,France
+90,Puce,France
+4,Yellow,France
+50,Mauv,France
+45,Indigo,United Kingdom
+52,Green,France
+82,Puce,United States
+82,Puce,United States
+47,Puce,France
+60,Aquamarine,France
+85,Blue,France
+92,Goldenrod,France
+56,Fuscia,France
+45,Blue,France
+8,Teal,France
+25,Indigo,United States
+48,Orange,United States
+29,Khaki,United States
+9,Aquamarine,France
+81,Maroon,United States
+14,Pink,France
+21,Khaki,France
+69,Indigo,United Kingdom
+87,Purple,France
+73,Mauv,United Kingdom
+82,Puce,United States
+3,Orange,United States
+30,Blue,France
+6,Red,France
+21,Mauv,France
+40,Maroon,United States
+80,Fuscia,United States
+72,Indigo,France
+70,Goldenrod,United States
+93,Fuscia,France
+45,Crimson,United States
+12,Turquoise,France
+30,Puce,United States
+68,Orange,France
+24,Goldenrod,France
+86,Blue,France
+83,Maroon,United States
+41,Teal,France
+74,Indigo,United States
+29,Violet,United States
+86,Fuscia,United States
+100,Maroon,France
+26,Blue,France
+99,Crimson,United States
+76,Teal,France
+51,Green,France
+92,Khaki,France
+60,Red,United States
+31,Violet,France
+14,Blue,France
+30,Goldenrod,France
+67,Khaki,United States
+65,Orange,France
+48,Maroon,United States
+37,Teal,France
+72,Purple,France
+51,Turquoise,United States
+84,Purple,United States
+91,Teal,United States
+80,Orange,United States
+83,Fuscia,France
+60,Mauv,France
+68,Orange,France
+23,Aquamarine,United Kingdom
+51,Red,France
+18,Turquoise,United States
+84,Blue,France
+61,Green,France
+66,Puce,France
+99,Indigo,France
+20,Turquoise,United States
+24,Maroon,United States
+36,Purple,United States
+61,Violet,United States
+94,Blue,Spain
+35,Orange,France
+17,Yellow,France
+38,Khaki,United States
+71,Red,France
+46,Purple,France
+1,Violet,United States
+27,Indigo,France
+33,Yellow,United States
+47,Puce,United States
+7,Yellow,France
+11,Aquamarine,France
+48,Red,United States
+17,Indigo,United States
+68,Teal,United States
+45,Orange,United States
+38,Aquamarine,United States
+67,Khaki,France
+100,Purple,France
+4,Purple,France
+48,Khaki,France
+98,Indigo,United States
+68,Orange,United States
+58,Goldenrod,United States
+52,Green,France
+70,Khaki,United States
+10,Fuscia,United States
+47,Violet,France
+22,Pink,France
+1,Blue,United States
+99,Red,United Kingdom
+10,Khaki,France
+98,Fuscia,United States
+11,Mauv,United States
+84,Aquamarine,Spain
+41,Mauv,United States
+9,Pink,United States
+2,Orange,United States
+88,Aquamarine,United States
+45,Mauv,United States
+49,Pink,France
+35,Crimson,United States
+16,Crimson,United States
+81,Goldenrod,United States
+85,Red,United States
+61,Aquamarine,United Kingdom
+3,Aquamarine,France
+28,Red,France
+29,Puce,United Kingdom
+49,Fuscia,United States
+73,Teal,United Kingdom
+8,Khaki,France
+10,Yellow,Spain
+27,Mauv,Spain
+94,Mauv,France
+21,Aquamarine,France
+36,Blue,France
+75,Purple,France
+63,Pink,France
+2,Violet,France
+45,Turquoise,United States
+24,Purple,France
+93,Indigo,France
+50,Teal,Spain
+79,Crimson,United States
+34,Pink,France
+60,Pink,United States
+15,Goldenrod,France
+54,Orange,France
+84,Aquamarine,France
+71,Maroon,France
+25,Violet,United States
+23,Teal,United States
+40,Pink,United States
+93,Green,United States
+31,Green,France
+97,Yellow,France
+67,Indigo,France
+78,Puce,Spain
+69,Green,United States
+59,Fuscia,France
+62,Crimson,France
+92,Goldenrod,United States
+19,Yellow,France
+61,Crimson,France
+43,Goldenrod,France
+33,Red,United States
+3,Yellow,France
+73,Pink,France
+25,Aquamarine,United States
+25,Yellow,France
+5,Maroon,Spain
+9,Turquoise,France
+93,Purple,France
+21,Violet,France
+88,Teal,France
+45,Yellow,France
+33,Purple,United States
+58,Puce,France
+94,Green,France
+74,Goldenrod,United Kingdom
+10,Purple,United States
+39,Teal,United States
+25,Maroon,France
+65,Khaki,United States
+29,Violet,France
+8,Puce,France
+98,Fuscia,United States
+8,Indigo,France
+31,Goldenrod,France
+93,Yellow,France
